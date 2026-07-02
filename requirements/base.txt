@@ -387,7 +387,7 @@ pygments==2.20.0
     # via
     #   django-log-outgoing-requests
     #   rich
-pyjwt==2.12.1
+pyjwt==2.13.0
     # via
     #   commonground-api-common
     #   mozilla-django-oidc
